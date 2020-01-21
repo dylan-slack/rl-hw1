@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/dylanslack/Projects/homework_fall2019/hw1/cs285/scripts/../data/bc_test_bc_HalfCheetah_HalfCheetah-v2_19-01-2020_17-11-37/policy_itr_0"
+all_model_checkpoint_paths: "/Users/dylanslack/Projects/homework_fall2019/hw1/cs285/scripts/../data/bc_test_bc_HalfCheetah_HalfCheetah-v2_19-01-2020_17-11-37/policy_itr_0"
